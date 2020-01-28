@@ -1,4 +1,4 @@
-name: webdriverio-commonjs-mocha-assert
+name: webdriverio-commonjs-mocha-chai
 
 on:
   push:
