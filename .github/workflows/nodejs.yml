@@ -1,4 +1,4 @@
-name: webdriverio-commonjs-mocha-chai
+name: webdriverio-commonjs-mocha-chai-expect
 
 on:
   push:
@@ -25,4 +25,4 @@ jobs:
           npm run lint
       - name: TEST
         run: |
-          npm run test-ci
+          npm run test
