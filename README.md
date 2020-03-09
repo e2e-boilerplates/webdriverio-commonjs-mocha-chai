@@ -6,7 +6,7 @@ WebdriverIO end-to-end test automation boilerplate, using Commonjs, Mocha, Chai 
 
 ## Getting Started
 
-git clone git@github.com:e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect.git
-cd webdriverio-commonjs-mocha-chai-expect
-npm install
-npm run test
+    	git clone git@github.com:e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect.git
+    	cd webdriverio-commonjs-mocha-chai-expect
+    	npm install
+    	npm run test
