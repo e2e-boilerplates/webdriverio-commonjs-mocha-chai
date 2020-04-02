@@ -29,7 +29,7 @@
   "homepage": "https://github.com/e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect#readme",
   "husky": {
     "hooks": {
-      "pre-commit": "pretty-quick --staged"
+      "pre-commit": "lint-staged"
     }
   },
   "keywords": [
@@ -45,6 +45,11 @@
     "webdriverio"
   ],
   "license": "MIT",
+  "lint-staged": {
+    "*.{js,json,md}": [
+      "prettier --write"
+    ]
+  },
   "name": "webdriverio-commonjs-mocha-chai-expect",
   "repository": {
     "type": "git",
