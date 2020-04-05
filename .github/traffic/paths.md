@@ -1,0 +1,10 @@
+| referrer                                                                                                                                                 | count | uniques |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/pulls                                                                                            | 3     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect                                                                                                  | 2     | 2       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/pull/26/files/fd7dcbe93008d5c3768b4bcf42848dd55d48949f..64e04f902ce4d6c0f98b774cb455a467cdbce243 | 2     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/blob/master/wdio.conf.js                                                                         | 1     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/pull/23                                                                                          | 1     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/pull/25                                                                                          | 1     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/pull/26                                                                                          | 1     | 1       |
+| /e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect/pull/31                                                                                          | 1     | 1       |
