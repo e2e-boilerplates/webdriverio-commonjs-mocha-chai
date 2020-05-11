@@ -2,7 +2,7 @@
     
 # WebdriverIO Boilerplate
     
-WebdriverIO end-to-end test automation boilerplate, Using Commonjs, Mocha, Chai and Expect.
+WebdriverIO end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Mocha](https://mochajs.org), [Chai](https://www.chaijs.com) and Expect.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/webdriverio-commonjs-mocha-chai-expect.git
